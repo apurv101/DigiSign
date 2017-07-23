@@ -13,14 +13,29 @@ This is an app to digitize smart contracts. An Idea to use blockchains to create
    ```
    git clone https://github.com/defineapoorv/DigiSign.git
    ```
-3. Install dependencies in the project's lib directory.
+
+
+3. ```
+   pip install virtualenv
+   ```
+
+4. ```
+   virtualenv flask
+   ```
+
+5. ```
+   cd flask
+   ```
+
+6. ```
+   source bin/activate
+   ```
+
+7. ```
+   pip install flask
+   ```
+8. Run this project locally from the command line:
 
    ```
-   cd DigiSign
-   pip install -r requirements.txt -t lib
-   ```
-4. Run this project locally from the command line:
-
-   ```
-   python main.py
+   python run.py
    ```
