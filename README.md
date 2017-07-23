@@ -34,7 +34,10 @@ This is an app to digitize smart contracts. An Idea to use blockchains to create
 7. ```
    [sudo] pip install flask
    ```
-8. Run this project locally from the command line:
+8. ```
+   cd ..
+   ```
+9. Run this project locally from the command line:
 
    ```
    python run.py
