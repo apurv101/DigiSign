@@ -16,7 +16,7 @@ This is an app to digitize smart contracts. An Idea to use blockchains to create
 
 
 3. ```
-   pip install virtualenv
+   [sudo] pip install virtualenv
    ```
 
 4. ```
@@ -32,7 +32,7 @@ This is an app to digitize smart contracts. An Idea to use blockchains to create
    ```
 
 7. ```
-   pip install flask
+   [sudo] pip install flask
    ```
 8. Run this project locally from the command line:
 
